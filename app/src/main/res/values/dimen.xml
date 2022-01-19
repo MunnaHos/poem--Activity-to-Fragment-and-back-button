@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10sp</dimen>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="text">23sp</dimen>
+    <dimen name="high">300dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>
